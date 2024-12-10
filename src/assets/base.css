@@ -1,0 +1,13 @@
+:root {
+  --el-menu-border-color: #dcdfe6;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+} 
