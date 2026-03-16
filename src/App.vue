@@ -140,8 +140,20 @@ const mirrors = [
     base_url: "https://storage.flutter-io.cn/flutter_infra_release/releases/"
   },
   {
-    mirror: "清华大学开源镜像",
-    base_url: "https://mirrors.tuna.tsinghua.edu.cn/flutter/flutter_infra_release/releases/"
+    mirror: "校园网联合镜像站",
+    base_url: "https://mirrors.cernet.edu.cn/flutter/flutter_infra/releases/"
+  },
+  {
+    mirror: "南京大学开源镜像站",
+    base_url: "https://mirror.nju.edu.cn/flutter/flutter_infra/releases/"
+  },
+  {
+    mirror: "南京工业大学开源镜像站",
+    base_url: "https://mirrors.njtech.edu.cn/flutter/flutter_infra/releases/"
+  },
+  {
+    mirror: "SJTUG思源镜像站",
+    base_url: "https://mirror.iscas.ac.cn/flutter/flutter_infra/releases/"
   }
 ]
 

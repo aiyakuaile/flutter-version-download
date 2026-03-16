@@ -1,7 +1,7 @@
 {
     "pluginName": "Flutter版本下载器",
     "description": "快速找到Flutter各个版本，一键下载",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "aiyakuaile",
     "homepage": "https://github.com/aiyakuaile/flutter-version-download",
     "main": "index.html",
